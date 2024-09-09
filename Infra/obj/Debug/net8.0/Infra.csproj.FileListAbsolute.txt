@@ -1,0 +1,15 @@
+D:\DesafioDigix\Infra\bin\Debug\net8.0\Infra.deps.json
+D:\DesafioDigix\Infra\bin\Debug\net8.0\Infra.dll
+D:\DesafioDigix\Infra\bin\Debug\net8.0\Infra.pdb
+D:\DesafioDigix\Infra\bin\Debug\net8.0\Domain.dll
+D:\DesafioDigix\Infra\bin\Debug\net8.0\Domain.pdb
+D:\DesafioDigix\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+D:\DesafioDigix\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesafioDigix\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+D:\DesafioDigix\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+D:\DesafioDigix\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+D:\DesafioDigix\Infra\obj\Debug\net8.0\Infra.csproj.Up2Date
+D:\DesafioDigix\Infra\obj\Debug\net8.0\Infra.dll
+D:\DesafioDigix\Infra\obj\Debug\net8.0\refint\Infra.dll
+D:\DesafioDigix\Infra\obj\Debug\net8.0\Infra.pdb
+D:\DesafioDigix\Infra\obj\Debug\net8.0\ref\Infra.dll

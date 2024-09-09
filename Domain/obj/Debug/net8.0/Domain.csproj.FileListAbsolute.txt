@@ -1,0 +1,11 @@
+D:\DesafioDigix\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\DesafioDigix\Domain\bin\Debug\net8.0\Domain.dll
+D:\DesafioDigix\Domain\bin\Debug\net8.0\Domain.pdb
+D:\DesafioDigix\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesafioDigix\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\DesafioDigix\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\DesafioDigix\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\DesafioDigix\Domain\obj\Debug\net8.0\Domain.dll
+D:\DesafioDigix\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\DesafioDigix\Domain\obj\Debug\net8.0\Domain.pdb
+D:\DesafioDigix\Domain\obj\Debug\net8.0\ref\Domain.dll

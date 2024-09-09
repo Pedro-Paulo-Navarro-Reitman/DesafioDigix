@@ -1,0 +1,15 @@
+D:\DesafioDigix\AptidaoCasaPopularApplication\bin\Debug\net8.0\AptidaoCasaPopularApplication.deps.json
+D:\DesafioDigix\AptidaoCasaPopularApplication\bin\Debug\net8.0\AptidaoCasaPopularApplication.dll
+D:\DesafioDigix\AptidaoCasaPopularApplication\bin\Debug\net8.0\AptidaoCasaPopularApplication.pdb
+D:\DesafioDigix\AptidaoCasaPopularApplication\bin\Debug\net8.0\Domain.dll
+D:\DesafioDigix\AptidaoCasaPopularApplication\bin\Debug\net8.0\Domain.pdb
+D:\DesafioDigix\AptidaoCasaPopularApplication\obj\Debug\net8.0\AptidaoCasaPopularApplication.csproj.AssemblyReference.cache
+D:\DesafioDigix\AptidaoCasaPopularApplication\obj\Debug\net8.0\AptidaoCasaPopularApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesafioDigix\AptidaoCasaPopularApplication\obj\Debug\net8.0\AptidaoCasaPopularApplication.AssemblyInfoInputs.cache
+D:\DesafioDigix\AptidaoCasaPopularApplication\obj\Debug\net8.0\AptidaoCasaPopularApplication.AssemblyInfo.cs
+D:\DesafioDigix\AptidaoCasaPopularApplication\obj\Debug\net8.0\AptidaoCasaPopularApplication.csproj.CoreCompileInputs.cache
+D:\DesafioDigix\AptidaoCasaPopularApplication\obj\Debug\net8.0\AptidaoC.903E276B.Up2Date
+D:\DesafioDigix\AptidaoCasaPopularApplication\obj\Debug\net8.0\AptidaoCasaPopularApplication.dll
+D:\DesafioDigix\AptidaoCasaPopularApplication\obj\Debug\net8.0\refint\AptidaoCasaPopularApplication.dll
+D:\DesafioDigix\AptidaoCasaPopularApplication\obj\Debug\net8.0\AptidaoCasaPopularApplication.pdb
+D:\DesafioDigix\AptidaoCasaPopularApplication\obj\Debug\net8.0\ref\AptidaoCasaPopularApplication.dll
