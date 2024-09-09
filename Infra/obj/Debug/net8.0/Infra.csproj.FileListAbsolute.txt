@@ -13,3 +13,4 @@ D:\DesafioDigix\Infra\obj\Debug\net8.0\Infra.dll
 D:\DesafioDigix\Infra\obj\Debug\net8.0\refint\Infra.dll
 D:\DesafioDigix\Infra\obj\Debug\net8.0\Infra.pdb
 D:\DesafioDigix\Infra\obj\Debug\net8.0\ref\Infra.dll
+D:\DesafioDigix\Infra\obj\Debug\net8.0\Infra.sourcelink.json

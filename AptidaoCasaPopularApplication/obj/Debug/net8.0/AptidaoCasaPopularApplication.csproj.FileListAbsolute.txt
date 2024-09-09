@@ -13,3 +13,4 @@ D:\DesafioDigix\AptidaoCasaPopularApplication\obj\Debug\net8.0\AptidaoCasaPopula
 D:\DesafioDigix\AptidaoCasaPopularApplication\obj\Debug\net8.0\refint\AptidaoCasaPopularApplication.dll
 D:\DesafioDigix\AptidaoCasaPopularApplication\obj\Debug\net8.0\AptidaoCasaPopularApplication.pdb
 D:\DesafioDigix\AptidaoCasaPopularApplication\obj\Debug\net8.0\ref\AptidaoCasaPopularApplication.dll
+D:\DesafioDigix\AptidaoCasaPopularApplication\obj\Debug\net8.0\AptidaoCasaPopularApplication.sourcelink.json

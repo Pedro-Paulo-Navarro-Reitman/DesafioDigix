@@ -118,3 +118,4 @@ D:\DesafioDigix\Testes\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\DesafioDigix\Testes\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\DesafioDigix\Testes\bin\Debug\net8.0\AptidaoCasaPopularWebApi.dll
 D:\DesafioDigix\Testes\bin\Debug\net8.0\AptidaoCasaPopularWebApi.pdb
+D:\DesafioDigix\Testes\obj\Debug\net8.0\Testes.sourcelink.json
