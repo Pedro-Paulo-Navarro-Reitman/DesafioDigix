@@ -1,0 +1,6 @@
+@ApdtidaoCasaPopularApp_HostAddress = http://localhost:5001
+
+GET {{ApdtidaoCasaPopularApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
